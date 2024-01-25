@@ -7,7 +7,7 @@
 </head>
 <body>
 
-    <h1>Welcome to My Website</h1>
+    <h1>Welcome to My project</h1>
     
     <p>This is a simple HTML page created for demonstration purposes.</p>
     
